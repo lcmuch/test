@@ -1,3 +1,2 @@
 coli test
-test branch newlocal
-test branch master
+in branch master
